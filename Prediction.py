@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # File path of the test.csv file
-file_path = "C:\\Users\\huilh\\OneDrive\\Área de Trabalho\\AI Training Models\\Kaggle Competitions\\Digit Recognizer\\test.csv"
+file_path = "\\path_to_file\\test.csv"
 
 # Read the test.csv file into a DataFrame
 test_df = pd.read_csv(file_path)
